@@ -2,7 +2,6 @@
 A unified repository for end-to-end time series analysis and forecasting. Explore data preparation, model development, evaluation, and visualization workflows—ranging from classical statistical approaches to modern machine-learning methods.
 
 # 🔍 Overview
-This toolkit guides you through a typical forecasting project:
 
 ## Data Preparation
 - Organize raw and cleaned datasets
