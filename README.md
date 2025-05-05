@@ -14,11 +14,8 @@ A unified repository for end-to-end time series analysis and forecasting. Explor
 ## Modeling
 - Statistical Forecasting: Autoregressive and seasonal models
 - Machine-Learning Forecasting: Tree-based, neural network, and hybrid pipelines
-- Modular scripts for training, hyperparameter tuning, and batch evaluation
 - Evaluation & Comparison
-- Rolling-window backtesting
-- Standard accuracy metrics (e.g., MAE, RMSE, MAPE)
 - Side-by-side performance reports
-- Visualization & Export
+- Visualization
 - Publication-quality plots of historical vs. predicted values
-- Export forecasts and diagnostics for downstream use
+- Forecasts and diagnostics
